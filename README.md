@@ -35,3 +35,6 @@ Objects for RedSys payment in php
     protected $_nombreFormulario;
     protected $_submit;
 ```
+
+---
+base class from [@ssheduardo](https://github.com/ssheduardo/sermepa)
